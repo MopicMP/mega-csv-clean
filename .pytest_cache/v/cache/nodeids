@@ -1,0 +1,5 @@
+[
+  "tests/test_mega_csv_clean.py::TestClean::test_basic",
+  "tests/test_mega_csv_clean.py::TestClean::test_empty",
+  "tests/test_mega_csv_clean.py::TestClean::test_type_error"
+]
